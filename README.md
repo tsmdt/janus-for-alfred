@@ -6,7 +6,7 @@
 ## About
 Alfred worklfow for generating *non-boring* usernames via [Janus](https://github.com/manesspl/janus). 
 
-If you are looking for a generator that produces usernames like `MIRACLEFRUIT`, `AsIa.STiLeTtO`, `HearthRaptureAxe` or `High-Kuh` while using Alfred you are at the right place. Simply type `janus` in Alfred's search bar und copy one of the results to your clipboard.
+If you are looking for a generator that produces usernames like `MIRACLEFRUIT`, `AsIa.STiLeTtO`, `MuddyMacro` or `High-Kuh` while using Alfred you are at the right place. Simply type `janus` in Alfred's search bar und copy one of the results to your clipboard.
 
 ## Usage
 <img src="https://user-images.githubusercontent.com/86777463/180739510-696890b3-70d9-49fa-b313-ef2be45bfe2b.gif" width="700" height="400">
