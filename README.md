@@ -16,6 +16,7 @@ Start creating random usernames in Alfred by typing `janus`. You can specifiy th
 - `low` : usernames will be generated in `lowercase`
 - `up` : usernames will be generated in `UPPERCASE`
 - `mix` : usernames will be generated `MiXeD`
+- `cap` : usernames will be generated `In Small Caps`
 
 ## Installation
 Simply download this repository (or clone it). Double click `Janus.alfredworkflow` and add the workflow to Alfred.
