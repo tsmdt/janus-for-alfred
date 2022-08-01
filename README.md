@@ -25,5 +25,5 @@ Simply download this repository (or clone it). Double click `Janus.alfredworkflo
 - Alfred 5.x
 - Python > 3.8
 
-## Links
-Try the stand alone version of [Janus](https://github.com/manesspl/janus) for more features and options.
+## Other Alfred-Workflows
+- [Quickpass-for-Alfred](https://github.com/manesspl/quickpass-for-alfred): Quick and simple password generator
